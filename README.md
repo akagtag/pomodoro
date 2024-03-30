@@ -1,3 +1,8 @@
+![image](https://github.com/akagtag/pomodoro/assets/146483011/6abf03bc-3ff3-410f-8704-c459252535d0)
+![image](https://github.com/akagtag/pomodoro/assets/146483011/e76df090-46e7-4fb8-9e76-78b6a44936fe)
+
+
+
 `# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
